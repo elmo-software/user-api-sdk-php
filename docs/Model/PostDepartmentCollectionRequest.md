@@ -1,0 +1,12 @@
+# # PostDepartmentCollectionRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**title** | **string** | Title of department |
+**department_id** | **string** | ID of current department | [optional]
+**description** | **string** | Description of department | [optional]
+**parent** | **string** | ID of department parent | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
