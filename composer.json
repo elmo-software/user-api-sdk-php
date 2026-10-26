@@ -12,7 +12,7 @@
         "api"
     ],
     "homepage": "https://openapi-generator.tech",
-    "license": "unlicense",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "OpenAPI",
